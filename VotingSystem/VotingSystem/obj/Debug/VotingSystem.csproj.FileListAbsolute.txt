@@ -1,0 +1,16 @@
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe.config
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\bin\Debug\VotingSystem.exe
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\bin\Debug\VotingSystem.pdb
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csproj.AssemblyReference.cache
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Admin.resources
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Candidates.resources
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Election.resources
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Login.resources
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Properties.Resources.resources
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.Voter.resources
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csproj.GenerateResource.cache
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.csproj.CoreCompileInputs.cache
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.exe
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSystem.pdb
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\bin\Debug\MySql.Data.dll
+C:\Users\Red\Desktop\School\3rd year\1st sem\Advanced Database Systems\Voting System\VotingSystem\VotingSystem\obj\Debug\VotingSy.1FF55D8B.Up2Date
